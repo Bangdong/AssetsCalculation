@@ -1,2 +1,2 @@
 # AssetsCalculation
-This repository contains functions which mainly be used to do basic calculation for assets.
+This repository contains functions which can be used to do basic calculationS for assets.
